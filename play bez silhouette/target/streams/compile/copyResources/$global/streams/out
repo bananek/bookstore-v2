@@ -1,0 +1,7 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\BanaN\Desktop\sil\play bez silhouette\conf\application.conf,C:\Users\BanaN\Desktop\sil\play bez silhouette\target\scala-2.11\classes\application.conf)
+[debug] 	(C:\Users\BanaN\Desktop\sil\play bez silhouette\conf\evolutions,C:\Users\BanaN\Desktop\sil\play bez silhouette\target\scala-2.11\classes\evolutions)
+[debug] 	(C:\Users\BanaN\Desktop\sil\play bez silhouette\conf\routes,C:\Users\BanaN\Desktop\sil\play bez silhouette\target\scala-2.11\classes\routes)
+[debug] 	(C:\Users\BanaN\Desktop\sil\play bez silhouette\conf\silhouette.conf,C:\Users\BanaN\Desktop\sil\play bez silhouette\target\scala-2.11\classes\silhouette.conf)
+[debug] 	(C:\Users\BanaN\Desktop\sil\play bez silhouette\conf\evolutions\default,C:\Users\BanaN\Desktop\sil\play bez silhouette\target\scala-2.11\classes\evolutions\default)
+[debug] 	(C:\Users\BanaN\Desktop\sil\play bez silhouette\conf\evolutions\default\1.sql,C:\Users\BanaN\Desktop\sil\play bez silhouette\target\scala-2.11\classes\evolutions\default\1.sql)
