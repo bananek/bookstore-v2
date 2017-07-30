@@ -1,0 +1,15 @@
+<div>
+  <tr *ngFor="let user of users">
+    <td>
+      <strong>#{{user.id}} - {{user.userId}}</strong><br />
+      <strong>Provider: </strong>{{user.provider}}<br />
+      <strong>Name: </strong>{{user.firstName}}<br />
+      <strong>Last Name: </strong>{{user.lastName}}<br />
+      <strong>Email: </strong>{{user.email}}<br />
+      [<a (click)="delete(user)">DELETE USER</a>]<br />
+      <br />
+    </td>
+  </tr>
+  <br />
+
+</div>
